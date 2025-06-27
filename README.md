@@ -23,11 +23,11 @@ Here’s how I structured each project in my application:
 
 - Start with a high-level summary (Include your role, project goal, and organization context.)
 - Key responsibilities
-  - **Initiating:** Contributed to the business case, identified stakeholders
-  - **Planning:** Defined scope, timeline, cost, quality, risk, and resources
-  - **Executing:** Led the team to deliver on milestones and project deliverables
-  - **Monitoring and Controlling:** Tracked progress, managed changes, and controlled quality
-  - **Closing:** Finalized deliverables, conducted retrospectives, transitioned ownership
+  - **Initiating**: Contributed to the business case, identified stakeholders
+  - **Planning**: Defined scope, timeline, cost, quality, risk, and resources
+  - **Executing**: Led the team to deliver on milestones and project deliverables
+  - **Monitoring and Controlling**: Tracked progress, managed changes, and controlled quality
+  - **Closing**: Finalized deliverables, conducted retrospectives, transitioned ownership
 - End with a brief summary of the project outcomes (E.g., delivered on time, under budget, improved customer satisfaction, etc.)
 
 Some applicants also find it helpful to structure their descriptions using frameworks such as:
@@ -37,17 +37,50 @@ Some applicants also find it helpful to structure their descriptions using frame
 I have submitted my PMP application on March 13 and was approved on March 19.
 
 ## Training
-- https://www.coursera.org/professional-certificates/google-project-management
+To meet the 35-hour project management education requirement for PMP certification, I completed the [Google Project Management: Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/google-project-management).
+
+### Cost
+The certificate is accessed through a Coursera subscription, which costs approximately $70 CAD per month and includes a 7-day free trial. I completed the program in 5 weeks, so I only paid for one month.
+
+### Pros and Cons
+#### Pros
+- **Affordable**: Much more budget-friendly than PMP bootcamps, which can cost upwards of $2,000 CAD.
+- **Flexible**: Self-paced and accessible anytime, allowing you to learn at your convenience.
+- **Structured**: Offers a beginner-friendly overview of project management with practical examples and exercises.
+#### Cons
+- **Limited Depth**: The content is simplified and more suited for beginners; additional study is required for PMP-level knowledge.
+- **No Networking or Live Support**: Lacks real-time interaction or instructor feedback. Peer learning is limited and often delayed.
+- **Not a PMP-Specific Prep Course**: The course doesn't cover PMP exam structure, question style, or test-taking strategies.
+
+**Tip**: You can supplement this training with free PMP-focused resources (see next section).
+
+## Online Resources
+
+YouTube has a lot of free PMP content. I found these two channels especially helpful for me.
+
+### [David McLachlan](https://www.youtube.com/@davidmclachlanproject)
+#### Practice Questions
+- [150 PMBOK 7 Scenario-Based PMP Exam Q&A](https://www.youtube.com/watch?v=Zht0-j03NfQ&t=14095s)
+- [200 Agile PMP Q&A](https://www.youtube.com/watch?v=tNIHysh2ZW4&t=10s)
+- [110 Drag & Drop Questions](https://www.youtube.com/watch?v=wwNUBe21jtM)
+#### Exam Tips
+- [PMP Cheat Sheet](https://www.youtube.com/watch?v=k25eJDUU-J0)
+- [PMP Test Strategy](https://www.youtube.com/watch?v=EFi9gWOhZK4)
+- [ONLY thing you need to pass](https://www.youtube.com/watch?v=bnTAiMT7YJw)
+
+### [Andrew Ramdayal](https://www.youtube.com/@AndrewRamdayal)
+#### Practice Questions
+- [200 Ultra Hard PMP Questions](https://www.youtube.com/watch?v=1sWpc6765AI)
+#### Study Plans & Strategy
+- [30-day Study Plan](https://www.youtube.com/watch?v=0aeuyrIVQMg&t=1290s)
+- [Why many people FAIL the PMP exam](https://www.youtube.com/watch?v=99IerzKu8Bc)
+- [4 Things to do the day before the exam](https://www.youtube.com/watch?v=S3iPrIuoYNo)
 
 ## Reference Books
 - PMBOK 6th Edition
 - PMBOK 7th Edition
 - Agile Practice Guide
-
-## Online Reference
-- https://www.youtube.com/@davidmclachlanproject
-- https://www.youtube.com/@AndrewRamdayal
-
+- 
 ## Practice Exams
 ### Free
 - https://www.pmppracticeexam.org/
@@ -74,3 +107,5 @@ I have submitted my PMP application on March 13 and was approved on March 19.
 
 ## Exam Day
 - Pearson VUE
+
+## Total Cost
