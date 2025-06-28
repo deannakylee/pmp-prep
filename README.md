@@ -40,7 +40,7 @@ I have submitted my PMP application on March 13 and was approved on March 19.
 To meet the 35-hour project management education requirement for PMP certification, I completed the [Google Project Management: Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/google-project-management).
 
 ### Cost
-The certificate is accessed through a Coursera subscription, which costs approximately $70 CAD per month and includes a 7-day free trial. I completed the program in 5 weeks, so I only paid for one month.
+The certificate is accessed through a Coursera subscription, which costs $49 USD or $70 CAD per month and includes a 7-day free trial. I completed the program in 5 weeks, so I only paid for one month.
 
 ### Pros and Cons
 #### Pros
@@ -101,6 +101,7 @@ To succeed in the PMP exam, practice is critical. The exam includes 180 question
 - [Practice Exam 4](https://www.linkedin.com/learning/practice-exam-4-for-pmi-project-management-professional-pmp/about-the-practice-exam)
 #### [PMI Study Hall PMP Plus](https://www.pmi.org/shop/p-/digital-product/pmi-study-hall-pmp-plus/dp017) ($79 USD for 3 months access)
 - Includes full mock exams, flashcards, learning quizzes, and performance analytics. Great for replicating the real exam environment.
+- Experience may vary. Some say Study Hall is harder than the actual exam. My own Study Hall mock exams were mostly multiple choice, whereas the real PMP exam included many drag-and-drop questions. To build confidence, practice across different formats.
 
 ### Other Free Exams (Not Personally Tried)
 - [SimpliLearn Free PMP Exam](https://www.simplilearn.com/pmp-exam-questions-6th-edition-free-practice-test)
@@ -114,7 +115,7 @@ To succeed in the PMP exam, practice is critical. The exam includes 180 question
 Here's the roadmap I followed to prepare and pass the PMP exam:
 1. **Foundation**: Completed the Google Project Management: Professional Certificate on Coursera to build foundational knowledge.
 2. **In-Depth Study**: Studied Rita Mulcahy’s PMP Exam Prep and filled in knowledge gaps with PMI standards (PMBOK, Agile Guide, Process Groups Guide).
-3. **Practice with YouTube**: Watched practice question walkthroughs by David McLachlan and Andrew Ramdayal. Analyze each wrong answer to under the logic. Review and reference to books as needed.
+3. **Practice with YouTube**: Watched practice question walkthroughs by David McLachlan and Andrew Ramdayal. Understand why your answers are wrong. Cross-reference with books if unsure.
 4. **Short Practice Exams (Untimed)**: Start with shorter exams (ie: 50 questions) to build confidence.
 5. **Formula and Definition**: Print out formulas and tables from PMBOK guide to use as reference. Memorize formulas and definitions that come up repeatedly in practice exams.
 6. **Long Practice Exams (Timed)**: Used LinkedIn Learning full-length tests to simulate exam conditions. Score 70%+ consistently before moving on.
@@ -122,6 +123,28 @@ Here's the roadmap I followed to prepare and pass the PMP exam:
 8. **Final Review**: Reviewed exam tips on YouTube (test-taking strategy, mindset, time management).
 
 ## Exam Day
-- Pearson VUE
+PMP Exam can be taken online or at a Pearson VUE test center. I chose to take my exam at my local Pearson VUE location for the following reason:
+1. **Clear My Mind**: I took public transportation, which gave me time to calm my nerves and mentally prepare.
+2. **Better Focus**: Test centers offer a quiet, monitored environment. No risk of disqualification due to webcam or background noise issues, which can happen in online exams.
 
 ## Total Cost
+| Category | Cost |
+| ----------- | ----------- |
+| Google Project Management Course | $49 USD* + tax (1 month) |
+| PMI Study Hall Plus | $79 USD + tax |
+| PMI Membership + Canadian West Coast Chapter | $169 USD + tax |
+| PMP Exam Fee (member price) | $405 USD + tax |
+| PMI Standards (PMBOK, Agile Practice Guide, etc) | $0 (included with PMI membership) |
+| Rita Mulcahy's PMP Exam Prep | $99 USD + tax |
+| Total | $801 USD + tax |
+
+## After Thoughts
+It took me just under 4 months from application to certification. While some advertise passing the exam in 30 days (or even 14), often with minimal experience, I believe that goes against the spirit of the certification.
+
+My goal was not just to pass, but to:
+- Deepen my understanding of project management principles
+- Reflect on past experiences and mistakes
+- Improve my ability to manage risk, lead teams, and optimize outcomes
+- Demonstrate commitment to professional excellence
+
+I’m excited to apply what I’ve learned in my next role and continue growing as a project leader.
