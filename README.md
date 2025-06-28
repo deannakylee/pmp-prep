@@ -148,3 +148,6 @@ My goal was not just to pass, but to:
 - Demonstrate commitment to professional excellence
 
 I’m excited to apply what I’ve learned in my next role and continue growing as a project leader.
+
+## Contact
+If you have any questions or feedback, please reach out to me via LinkedIn https://www.linkedin.com/in/deannakylee/
