@@ -77,33 +77,49 @@ YouTube has a lot of free PMP content. I found these two channels especially hel
 - [4 Things to do the day before the exam](https://www.youtube.com/watch?v=S3iPrIuoYNo)
 
 ## Reference Books
-- PMBOK 6th Edition
-- PMBOK 7th Edition
-- Agile Practice Guide
-- 
+These references were essential throughout my exam preparation:
+- [Rita Mulcahy's PMP Exam Prep, 11th Edition](https://store.rmcls.com/pmp-exam-prep-eleventh-edition) – Practical exam prep book with strategies and quizzes.
+- [PMBOK Guide](https://www.pmi.org/standards/pmbok) – I used both the 6th Edition (for process-based content) and 7th Edition (for principles-based approach).
+- [Agile Practice Guide](https://www.pmi.org/standards/agile) – Important for Agile and hybrid methodologies.
+- [Process Groups: A Practice Guide](https://www.pmi.org/standards/process-groups) – Helpful to understand process group mapping to real-world activities.
+
 ## Practice Exams
-### Free
-- https://www.pmppracticeexam.org/
-- https://oliverlehmann.com/free/free-pmp-practice-questions/
-- https://www.project-management-prepcast.com/pmp-practice-exam-questions-sample-test
-- https://www.tiapmtraining.com/p/pmp-exam-prep1
-- https://www.pm-exam-simulator.com/pmp-exam-simulator/free-pmp-exam-simulator
+To succeed in the PMP exam, practice is critical. The exam includes 180 questions in 230 minutes, so content mastery and time management are key.
 
-- https://www.simplilearn.com/pmp-exam-questions-6th-edition-free-practice-test
-- https://crucialexams.com/exams/pmi/project-management-professional/pmi-pmp-latest/practice-tests-practice-questions
-- https://pretestsimulator.com/exam/practice?course=PMP
-- https://lovepmp.com/docs/question/pmp-questions
-- https://projectmanagementacademy.net/free-pmp-questions
-- https://trustedinstitute.com/practice/pmp-pmbok7/
+### Free Practice Exams
+- [PMP Practice Exam](https://www.pmppracticeexam.org/): 4 exams x 50 questions each
+- [Oliver Lehmann PMP Practice Questions](https://oliverlehmann.com/free/free-pmp-practice-questions/): 100-question timed exam; reputable and challenging. Also provides reference to other free PMP practice questions.
+- [PM PrepCast Free Practice Exam](https://www.project-management-prepcast.com/pmp-practice-exam-questions-sample-test): 120 questions
+- [TIA Mock Exam](https://www.tiapmtraining.com/p/pmp-exam-prep1): 200 questions (created by Andrew Ramdayal’s training institute)
+- [Free PM Exam Simulator](https://www.pm-exam-simulator.com/pmp-exam-simulator/free-pmp-exam-simulator): 69 questions
 
-### Paid
-- LinkedIn Learning Practice Exams 
-  - https://www.linkedin.com/learning/practice-exam-1-for-pmi-project-management-professional-pmp/about-the-practice-exam
-  - https://www.linkedin.com/learning/practice-exam-2-for-pmi-project-management-professional-pmp/about-the-practice-exam
-  - https://www.linkedin.com/learning/practice-exam-3-for-pmi-project-management-professional-pmp/about-the-practice-exam
-  - https://www.linkedin.com/learning/practice-exam-4-for-pmi-project-management-professional-pmp/about-the-practice-exam
+### Paid Practice Exams
+#### LinkedIn Learning Practice Exams ($34.99 CAD per month, or free via [Vancouver Public Library](https://www.vpl.ca/digital-library/linkedin-learning)) 
+- [Practice Exam 1](https://www.linkedin.com/learning/practice-exam-1-for-pmi-project-management-professional-pmp/about-the-practice-exam)
+- [Practice Exam 2](https://www.linkedin.com/learning/practice-exam-2-for-pmi-project-management-professional-pmp/about-the-practice-exam)
+- [Practice Exam 3](https://www.linkedin.com/learning/practice-exam-3-for-pmi-project-management-professional-pmp/about-the-practice-exam)
+- [Practice Exam 4](https://www.linkedin.com/learning/practice-exam-4-for-pmi-project-management-professional-pmp/about-the-practice-exam)
+#### [PMI Study Hall PMP Plus](https://www.pmi.org/shop/p-/digital-product/pmi-study-hall-pmp-plus/dp017) ($79 USD for 3 months access)
+- Includes full mock exams, flashcards, learning quizzes, and performance analytics. Great for replicating the real exam environment.
 
-- https://www.pmi.org/shop/p-/digital-product/pmi-study-hall-pmp-plus/dp017
+### Other Free Exams (Not Personally Tried)
+- [SimpliLearn Free PMP Exam](https://www.simplilearn.com/pmp-exam-questions-6th-edition-free-practice-test)
+- [Cruicial Exams](https://crucialexams.com/exams/pmi/project-management-professional/pmi-pmp-latest/practice-tests-practice-questions)
+- [Pretestsimulator](https://pretestsimulator.com/exam/practice?course=PMP)
+- [Love PMP](https://lovepmp.com/docs/question/pmp-questions)
+- [Project Management Academy Practice Exam](https://projectmanagementacademy.net/free-pmp-questions)
+- [Trusted Institute Free PMP Practice Test](https://trustedinstitute.com/practice/pmp-pmbok7/)
+
+## My PMP Exam Preparation Plan
+Here's the roadmap I followed to prepare and pass the PMP exam:
+1. **Foundation**: Completed the Google Project Management: Professional Certificate on Coursera to build foundational knowledge.
+2. **In-Depth Study**: Studied Rita Mulcahy’s PMP Exam Prep and filled in knowledge gaps with PMI standards (PMBOK, Agile Guide, Process Groups Guide).
+3. **Practice with YouTube**: Watched practice question walkthroughs by David McLachlan and Andrew Ramdayal. Analyze each wrong answer to under the logic. Review and reference to books as needed.
+4. **Short Practice Exams (Untimed)**: Start with shorter exams (ie: 50 questions) to build confidence.
+5. **Formula and Definition**: Print out formulas and tables from PMBOK guide to use as reference. Memorize formulas and definitions that come up repeatedly in practice exams.
+6. **Long Practice Exams (Timed)**: Used LinkedIn Learning full-length tests to simulate exam conditions. Score 70%+ consistently before moving on.
+7. **PMI Study Hall**: The exam style and interface are mimicks the real exam, including features such as highlighter, calculator and sections for notes.
+8. **Final Review**: Reviewed exam tips on YouTube (test-taking strategy, mindset, time management).
 
 ## Exam Day
 - Pearson VUE
