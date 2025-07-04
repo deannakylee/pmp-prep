@@ -1,5 +1,7 @@
 # PMP Preparation Guide
-I began my PMP certification journey in February 2025 and officially became PMP-certified in May 2025. I’m sharing my experience to help others who are considering this certification.
+I began my PMP certification journey in February 2025 and earned my credential in May 2025. The process was challenging but rewarding, giving me deeper insight into project management best practices and Agile frameworks.
+
+I’m sharing my experience, study plan, and tips to help others who are considering pursuing the PMP certification—whether you’re new to project management or looking to formalize your skills with a globally recognized credential.
 
 ## Prerequisites
 PMI clearly outlines eligibility requirements on their official [PMP Certification Page](https://www.pmi.org/certifications/project-management-pmp).
