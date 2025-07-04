@@ -1,7 +1,7 @@
 # PMP Preparation Guide
 I began my PMP certification journey in February 2025 and earned my credential in May 2025. The process was challenging but rewarding, giving me deeper insight into project management best practices and Agile frameworks.
 
-I’m sharing my experience, study plan, and tips to help others who are considering pursuing the PMP certification—whether you’re new to project management or looking to formalize your skills with a globally recognized credential.
+I'm sharing my experience, study plan, and tips to help others who are considering pursuing the PMP certification -- whether you're new to project management or looking to formalize your skills with a globally recognized credential.
 
 ## Prerequisites
 PMI clearly outlines eligibility requirements on their official [PMP Certification Page](https://www.pmi.org/certifications/project-management-pmp).
@@ -21,7 +21,7 @@ I followed the [PMP Application guide from CareerSprints](https://www.careerspri
 
 This method not only aligns with PMI's requirement to support your eligibility, but also showcases your PMP knowledge.
 
-Here’s how I structured each project in my application:
+Here's how I structured each project in my application:
 
 - Start with a high-level summary (Include your role, project goal, and organization context.)
 - Key responsibilities
@@ -92,7 +92,7 @@ To succeed in the PMP exam, practice is critical. The exam includes 180 question
 - [PMP Practice Exam](https://www.pmppracticeexam.org/): 4 exams x 50 questions each
 - [Oliver Lehmann PMP Practice Questions](https://oliverlehmann.com/free/free-pmp-practice-questions/): 100-question timed exam; reputable and challenging. Also provides reference to other free PMP practice questions.
 - [PM PrepCast Free Practice Exam](https://www.project-management-prepcast.com/pmp-practice-exam-questions-sample-test): 120 questions
-- [TIA Mock Exam](https://www.tiapmtraining.com/p/pmp-exam-prep1): 200 questions (created by Andrew Ramdayal’s training institute)
+- [TIA Mock Exam](https://www.tiapmtraining.com/p/pmp-exam-prep1): 200 questions (created by Andrew Ramdayal's training institute)
 - [Free PM Exam Simulator](https://www.pm-exam-simulator.com/pmp-exam-simulator/free-pmp-exam-simulator): 69 questions
 
 ### Paid Practice Exams
@@ -116,7 +116,7 @@ To succeed in the PMP exam, practice is critical. The exam includes 180 question
 ## My PMP Exam Preparation Plan
 Here's the roadmap I followed to prepare and pass the PMP exam:
 1. **Foundation**: Completed the Google Project Management: Professional Certificate on Coursera to build foundational knowledge.
-2. **In-Depth Study**: Studied Rita Mulcahy’s PMP Exam Prep and filled in knowledge gaps with PMI standards (PMBOK, Agile Guide, Process Groups Guide).
+2. **In-Depth Study**: Studied Rita Mulcahy's PMP Exam Prep and filled in knowledge gaps with PMI standards (PMBOK, Agile Guide, Process Groups Guide).
 3. **Practice with YouTube**: Watched practice question walkthroughs by David McLachlan and Andrew Ramdayal. Understand why your answers are wrong. Cross-reference with books if unsure.
 4. **Short Practice Exams (Untimed)**: Start with shorter exams (ie: 50 questions) to build confidence.
 5. **Formula and Definition**: Print out formulas and tables from PMBOK guide to use as reference. Memorize formulas and definitions that come up repeatedly in practice exams.
@@ -140,7 +140,7 @@ PMP Exam can be taken online or at a Pearson VUE test center. I chose to take my
 | Rita Mulcahy's PMP Exam Prep | $99 USD + tax |
 | Total | $801 USD + tax |
 
-## After Thoughts
+## Final Thoughts
 It took me just under 4 months from application to certification. While some advertise passing the exam in 30 days (or even 14), often with minimal experience, I believe that goes against the spirit of the certification.
 
 My goal was not just to pass, but to:
@@ -149,7 +149,7 @@ My goal was not just to pass, but to:
 - Improve my ability to manage risk, lead teams, and optimize outcomes
 - Demonstrate commitment to professional excellence
 
-I’m excited to apply what I’ve learned in my next role and continue growing as a project leader.
+I'm excited to apply what I've learned in my next role and continue growing as a project leader.
 
 ## Contact
 If you have any questions or feedback, please reach out to me via LinkedIn https://www.linkedin.com/in/deannakylee/
