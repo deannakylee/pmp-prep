@@ -99,6 +99,8 @@ The PMP exam consists of 180 multiple-choice questions that must be completed wi
 
 The exam includes a mix of question types, including standard multiple choice, multiple responses, matching, and drag-and-drop. It tests both predictive (waterfall), Agile, and hybrid project management approaches, with scenario-based questions designed to assess real-world application and critical thinking.
 
+PMI does not publish an official passing score for the PMP exam. While there's no exact threshold, many successful candidates report consistently scoring 70-80% on practice exams before passing the actual test. Experience, exam strategy, and comfort with scenario-based questions all play a significant role in success.
+
 ## Practice Exams
 To succeed in the PMP exam, practice is critical. With an average of about 1.25 minutes per question, both content mastery and time management are key.
 
