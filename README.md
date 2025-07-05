@@ -3,6 +3,11 @@ I began my PMP certification journey in February 2025 and earned my credential i
 
 I'm sharing my experience, study plan, and tips to help others who are considering pursuing the PMP certification -- whether you're new to project management or looking to formalize your skills with a globally recognized credential.
 
+## Overview of PMP
+The Project Management Professional (PMP) is a globally recognized certification from the Project Management Institute (PMI) that validates a deep understanding of project management practices across a wide range of industries and methodologies.
+
+The exam covers three core domains: People, Process, and Business Environment, and reflects both traditional project management and modern Agile and hybrid approaches. It challenges your ability to lead teams, manage risks, deliver value, and navigate complex project scenarios in real-world environments.
+
 ## Prerequisites
 PMI clearly outlines eligibility requirements on their official [PMP Certification Page](https://www.pmi.org/certifications/project-management-pmp).
 
