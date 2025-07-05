@@ -145,6 +145,11 @@ PMP Exam can be taken online or at a Pearson VUE test center. I chose to take my
 | Rita Mulcahy's PMP Exam Prep | $99 USD + tax |
 | Total | $801 USD + tax |
 
+## Maintaining PMP Certification
+The PMP certification is valid for three years. To maintain your active status, PMI requires you to earn 60 Professional Development Units (PDUs) during each three-year cycle.
+
+I actually appreciate this renewal requirement -- it keeps me motivated to continue learning, stay current with industry trends, and give back to the project management community. That said, earning and tracking PDUs can require both time and financial investment, so it is something to consider for your long-term professional development plan. Many organizations, including PMI, offer a wide range of options to earn PDUs -- from free webinars and self-directed learning to formal courses, volunteering, and work experience. You can find opportunities that fit your time and budget if you're committed to your career as a Project Manager.
+
 ## Final Thoughts
 It took me just under 4 months from application to certification. While some advertise passing the exam in 30 days (or even 14), often with minimal experience, I believe that goes against the spirit of the certification.
 
