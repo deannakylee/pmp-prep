@@ -90,8 +90,17 @@ These references were essential throughout my exam preparation:
 - [Agile Practice Guide](https://www.pmi.org/standards/agile) – Important for Agile and hybrid methodologies.
 - [Process Groups: A Practice Guide](https://www.pmi.org/standards/process-groups) – Helpful to understand process group mapping to real-world activities.
 
+## Exam Format
+The PMP exam consists of 180 multiple-choice questions that must be completed within 230 minutes (just under 4 hours). The questions cover three key domains:
+
+- People (42%): Leading and managing project teams and stakeholders.
+- Process (50%): Technical project management activities such as planning, executing, and monitoring.
+- Business Environment (8%): Aligning projects with organizational strategy and compliance.
+
+The exam includes a mix of question types, including standard multiple choice, multiple responses, matching, and drag-and-drop. It tests both predictive (waterfall), Agile, and hybrid project management approaches, with scenario-based questions designed to assess real-world application and critical thinking.
+
 ## Practice Exams
-To succeed in the PMP exam, practice is critical. The exam includes 180 questions in 230 minutes, so content mastery and time management are key.
+To succeed in the PMP exam, practice is critical. With an average of about 1.25 minutes per question, both content mastery and time management are key.
 
 ### Free Practice Exams
 - [PMP Practice Exam](https://www.pmppracticeexam.org/): 4 exams x 50 questions each
